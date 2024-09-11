@@ -3,15 +3,15 @@
 >Del Rosario, Naga City
 
 ### Interests
-## Movies
+### Movies
 > 10 Things I Hate About You
 > Flipped
 > The Notebook
-- ## Music
+- ### Music
 > K-pop
 > R&B
 > Rock
-## Books
+### Books
 > Dungeons and Drama
 > Not Here To Be Liked
 > I Hope This Doesn't Find You
