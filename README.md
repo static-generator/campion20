@@ -4,17 +4,17 @@
 
 ### Interests
 ## Movies
-- 10 Things I Hate About You
-- Flipped
-- The Notebook
-> Music
-- K-pop
-- R&B
-- Rock
-> Books
-- Dungeons and Drama
-- Not Here To Be Liked
-- I Hope This Doesn't Find You
+> 10 Things I Hate About You
+> Flipped
+> The Notebook
+- ## Music
+> K-pop
+> R&B
+> Rock
+## Books
+> Dungeons and Drama
+> Not Here To Be Liked
+> I Hope This Doesn't Find You
 
 ### Social Media
 - [Instagram](https://www.instagram.com/elyzzzzza_/)
