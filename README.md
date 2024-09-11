@@ -10,4 +10,3 @@
 ### Social Media
 - [Instagram](https://www.instagram.com/elyzzzzza_/)
 
-![puccaaa](https://ph.pinterest.com/pin/577023771038961400/)
